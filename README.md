@@ -1,5 +1,8 @@
 # GENIA-Temporary-Archive
 
-| 日付         |できごと |
+The Meta-Knowledge Corpus can be found on the NaCTeM site (<https://nactem.ac.uk/meta-knowledge/>).
+## History
+
+| Date        | Event |
 | ---          | ---     |
-| 2026年1月9日 |<https://geniaproject.org>にアクセスしようとしたら404エラーになったので手元に置いてあったファイルをPushした|
+|2026./1/9|I found that <https://geniaproject.org> is not accessible (404 error), so I pushed all the files I have on my laptop.|
